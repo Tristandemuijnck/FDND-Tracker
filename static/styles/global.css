@@ -1,0 +1,37 @@
+:root{
+    --dark-bg: #03061d;
+    --dark-primary: ;
+    --dark-secondary: ;
+    --dark-accent: ;
+
+    --light-bg: #F4F5F7;
+    --light-primary: #FFFFFF;
+    --light-secondary: #5a00d8;
+    --ligt-accent: ;
+
+    --light-font: #000000;
+}
+
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: var(--light-bg);
+    color: var(--light-font);
+}
