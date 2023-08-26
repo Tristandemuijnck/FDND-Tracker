@@ -12,6 +12,8 @@
     --light-font-color: #000000;
     --light-heading: 'Inter SemiBold', sans-serif;
     --light-subheading-color: #4D4F62;
+
+    --radius: 10px;
 }
 
 :global(:root){
@@ -28,6 +30,8 @@
     --light-font-color: #000000;
     --light-heading: 'Inter SemiBold', sans-serif;
     --light-subheading-color: #4D4F62;
+
+    --radius: 10px;
 }
 
 /* Reset */
@@ -61,6 +65,11 @@ a{
     src: url('../fonts/Inter-SemiBold.ttf');
 }
 
+@font-face {
+    font-family: 'Inter Bold';
+    src: url('../fonts/Inter-Bold.ttf');
+}
+
 /* General */
 html{
     scroll-behavior: smooth;
@@ -68,4 +77,5 @@ html{
 
 body{
     background-color: var(--light-bg);
+    font-family: 'Inter Regular', sans-serif;
 }
