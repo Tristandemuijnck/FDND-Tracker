@@ -17,3 +17,11 @@
 <Recent />
 
 <MobileNav />
+
+<style>
+    h2{
+        font-size: 1rem;
+        font-family: 'Inter SemiBold';
+        margin-left: 5%;
+    }
+</style>

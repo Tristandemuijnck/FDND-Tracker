@@ -40,7 +40,7 @@
 
     button{
         font-family: 'Inter SemiBold';
-        font-size: 0.85rem;
+        font-size: 0.75rem;
         padding: 0.4rem 0.6rem;
         border-radius: 5px;
         border: none;
