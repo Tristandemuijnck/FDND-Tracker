@@ -25,7 +25,7 @@
         <div class="progress-card">
             <p>Communiceren</p>
             <div class="progress-bar">
-                <p>3/3</p>
+                <p>2/3</p>
                 <div class="progress"></div>
             </div>
         </div>
@@ -41,7 +41,7 @@
         <div class="progress-card">
             <p>Lerend vermogen</p>
             <div class="progress-bar">
-                <p>1/3</p>
+                <p>3/3</p>
                 <div class="progress"></div>
             </div>
         </div>
